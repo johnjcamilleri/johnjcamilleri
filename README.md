@@ -6,8 +6,6 @@
 - Many years programming experience: professionally, open-source, and for fun
 - Comfortable at any level of the stack
 
----
-
 ## Projects
 
 - [**blurt**](https://github.com/johnjcamilleri/blurt)  
