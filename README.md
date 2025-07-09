@@ -3,8 +3,9 @@
 [**Lecturer**](https://www.chalmers.se/en/persons/cajohn/) at Chalmers University of Technology
 
 - Ph.D. in Computer Science, language technology and formal methods
-- Many years programming experience: professionally, open-source, and for fun
-- Comfortable at any level of the stack
+- Former startup CTO
+- Seasoned programmer: professionally, academically, open-source, and for fun
+- Experienced at all levels of the software stack
 
 ## Projects
 
