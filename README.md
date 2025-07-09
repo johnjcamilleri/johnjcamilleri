@@ -1,9 +1,9 @@
 ## Bio
 
-[**Lecturer in Computer Science**](https://www.chalmers.se/en/persons/cajohn/) at Chalmers University of Technology
+[**Lecturer**](https://www.chalmers.se/en/persons/cajohn/) at Chalmers University of Technology
 
 - Ph.D. in Computer Science, language technology and formal methods
-- Many years programming experience, both professionally and for fun
+- Many years programming experience: professionally, open-source, and for fun
 - Comfortable at any level of the stack
 
 ---
